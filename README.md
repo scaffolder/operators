@@ -10,3 +10,5 @@ Loadbalancer
 Database
 
 Storage
+
+Scaler
